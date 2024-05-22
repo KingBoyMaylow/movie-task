@@ -1,0 +1,10 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2024-05-20\ at\ 19.29.40_e9f07101.jpg);
+    background-size: 250vh 350px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

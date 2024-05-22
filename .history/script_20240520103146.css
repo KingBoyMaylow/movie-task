@@ -1,0 +1,26 @@
+body{
+    font: 1em sans-serif;
+    font-size: 20px;
+    font-weight: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.form-control{
+    height: 40px;
+    width: 300px;
+    bord
+}
+img{
+    width: 100px;
+}
+.register-btn{
+    width: 300px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.login{
+    color: rgb(255, 0, 0);
+}

@@ -1,0 +1,38 @@
+body{
+    font: 1em sans-serif;
+    font-size: 20px;
+    font-weight: 100px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+h3{
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.form-control{
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+    font-size: 30px;
+}
+h1{
+    margin-left: 50px;
+}
+img{
+    width: 100px;
+}
+fir
+.register-btn{
+    width: 500px;
+    background-color: black;
+    color: white;
+    height: 35px;
+    border-radius: 10px;
+}
+
+span a {
+    color: red;
+    text-decoration: none;
+}

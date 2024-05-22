@@ -1,0 +1,13 @@
+body{
+    background-color:  rgb(128, 128, 209);
+}
+.sign-up-div{
+    background-color: rgb(182, 182, 197);
+    width: 500px;
+    height: 100px;
+    border-radius: 50px;
+}
+img{
+    height: 50px;
+    cursor: pointer;
+}

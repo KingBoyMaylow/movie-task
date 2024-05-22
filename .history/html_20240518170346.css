@@ -1,0 +1,12 @@
+body{
+    background-color:  rgb(128, 128, 209);
+}
+.sign-up-div{
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 50px;
+    cursor: pointer;
+}

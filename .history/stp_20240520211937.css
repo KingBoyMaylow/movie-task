@@ -1,0 +1,24 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2024-05-20\ at\ 19.29.40_e9f07101.jpg);
+    background-size: 250vh 350px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.search-bar{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    background: none;
+    text-decoration-color: white;
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.logo{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50;
+}

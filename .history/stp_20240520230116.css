@@ -1,0 +1,48 @@
+body{
+    background-image: url(WhatsApp\ Image\ 2024-05-20\ at\ 19.29.40_e9f07101.jpg);
+    background-size: 250vh 400px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: ;
+}
+.search-bar{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    background: none;
+    text-decoration-color: rgb(255, 255, 255);
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid white;
+    
+}
+.top-logo{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 50px;
+    
+}
+lo
+.right-logo{
+    width: 40px;
+    height: 40px;
+    background-color: red;
+    border-radius: 50%;
+    margin-left: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-weight: bolder;
+    justify-content: right;
+    
+    
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
